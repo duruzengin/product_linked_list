@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "product_linked_list",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "product_linked_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-product_linked_list-Debug-2fff06bf7bffa2ac18b1.json",
+					"name" : "product_linked_list",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/duruzengin_1/Dropbox (Politecnico Di Torino Studenti)/Mac/Desktop/alghoritms 23-24/EXAM/product_linked_list/cmake-build-debug",
+		"source" : "/Users/duruzengin_1/Dropbox (Politecnico Di Torino Studenti)/Mac/Desktop/alghoritms 23-24/EXAM/product_linked_list"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
